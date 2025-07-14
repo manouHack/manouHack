@@ -1,4 +1,4 @@
-## Hi there 👋
+👋 Bienvenue sur mon profil GitHub !
 
 <!--
 **manouHack/manouHack** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
